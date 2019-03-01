@@ -1,0 +1,39 @@
+{
+  "name": "brat19-tracker",
+  "version": "1.0.0",
+  "description": "Tracker for nodecg 0.9 using google docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo-Mirage/Brat19-Tracker.git"
+  },
+  "keywords": [
+    "nodecg",
+    "speedrun",
+    "marathon",
+    "layout",
+    "brat",
+    "brazilians",
+    "against",
+    "time"
+  ],
+  "author": "Jessyka Alycia Bonfim Gaviao (Sakushi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigo-Mirage/Brat19-Tracker/issues"
+  },
+  "homepage": "https://github.com/Rodrigo-Mirage/Brat19-Tracker#readme",
+  "dependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.5.2",
+    "delay": "^4.1.0",
+    "dropbox-v2-api": "^2.1.22",
+    "google-spreadsheet": "^2.0.7",
+    "googleapis": "^27.0.0"
+  }
+}

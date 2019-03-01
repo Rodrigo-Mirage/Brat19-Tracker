@@ -1,0 +1,5 @@
+# Node/npm stuff
+node_modules
+npm-debug.log
+config.js
+currentBids.json
